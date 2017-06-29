@@ -1,2 +1,2 @@
 # Machine-Learning
-This is continuously updated repository containing projects related to Machine-Learning/Deep Learning projects.  
+This is a continuously updated repository containing projects related to Machine-Learning/Deep Learning projects.  
